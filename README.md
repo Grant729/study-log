@@ -28,10 +28,10 @@
 
 ## 使用规则
 
-1. **每天**学习结束，在当周日志追加当日记录并 commit（保持 GitHub 绿）。
-2. **每周日**写周报（用 [templates/weekly-report-template.md](templates/weekly-report-template.md)），更新技能地图。
+1. **每天**学习结束，把当天代码/成果 commit 一次（保持 GitHub 绿）。**不写每日小结**——小结由 AI 教练根据你发的成果在聊天中给出。
+2. **每周日**周报：把一周成果发给 AI 教练整理草稿，你确认后提交（模板见 [templates/weekly-report-template.md](templates/weekly-report-template.md)），更新技能地图。
 3. **每 2 周**做一次技能自评，更新上面的表格。
-4. **每周一次代码评审会**：挑一段本周代码让 AI 结对教练评审，结论记入日志。
+4. **每周一次代码评审会**：挑一段本周代码让 AI 结对教练评审。
 
 ## 红线
 
