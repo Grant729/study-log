@@ -1,0 +1,9 @@
+# 本地数据库凭据（绝不允许提交）
+db_config.local.json
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
