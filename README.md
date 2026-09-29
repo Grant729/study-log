@@ -20,12 +20,11 @@
 
 | 文件/目录 | 用途 |
 |---|---|
-| [START-HERE.md](START-HERE.md) | 第 0 周第 1 天启动清单，今天就看这个 |
 | [plan.md](plan.md) | 12 周明细表（0~2 周精确到天） |
 | week00.md ~ week12.md | 每周日志：学了什么、产出、卡点 |
 | templates/ | 周报模板、复盘卡模板 |
 | projects/ | **所有模拟项目**：一个项目一个文件夹（`NNN_主题`），内含 `01_pipeline.ipynb`（Python+SQL）、`02_analysis.ipynb`（R）、`data/`、`outputs/` |
-| archive/ | 历史练习归档（第 0 周双线模式代码与数据） |
+| archive/ | 历史归档：第 0 周双线练习、一次性启动文档 |
 
 ## 使用规则
 
